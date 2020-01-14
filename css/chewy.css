@@ -14,12 +14,12 @@ h2 {
 
 ul {
   color: pink;
-  text-align: right;
+  text-align: left;
   font-size: 35px;
 }
 
 li {
-  text-align:right;
+  text-align:left;
   list-style-position: inside;
 } 
 
